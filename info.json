@@ -15,5 +15,6 @@
     "! space-exploration"
   ],
   "description": "Vanilla improves start of the game",
-  "license": "MIT"
+  "license": "MIT",
+  "source": "https://github.com/silentiumNoxe/factorio-steam-age"
 }

@@ -7,10 +7,9 @@ data.raw["inserter"]["burner-inserter"].energy_source = {
         base_area = 1,
         pipe_picture = assembler2pipepictures(),
         pipe_covers = pipecoverspictures(),
-        pipe_connections =
-        {
-            { type = "input-output", position = {1, 0} },
-            { type = "input-output", position = {-1, 0}}
+        pipe_connections = {
+            { type = "input-output", position = { 1, 0 } },
+            { type = "input-output", position = { -1, 0 } }
         },
         production_type = "input-output",
         filter = "steam",
