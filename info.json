@@ -6,7 +6,14 @@
   "contact": "silentium.noxe@gmail.com",
   "homepage": "",
   "factorio_version": "1.1",
-  "dependencies": [],
-  "description": "",
+  "dependencies": [
+    "! IndustrialRevolution3",
+    "! IndustrialRevolution2",
+    "! IndustrialRevolution",
+    "! Krastorio2",
+    "! aai-industry",
+    "! space-exploration"
+  ],
+  "description": "Vanilla improves start of the game",
   "license": "MIT"
 }
