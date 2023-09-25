@@ -42,3 +42,5 @@ data.raw["mining-drill"]["burner-mining-drill"].energy_source = {
     fluid_usage_per_tick = 0.5,
     maximum_temperature = 0
 }
+
+data.raw["offshore-pump"]["offshore-pump"].pumping_speed = 4
