@@ -20,3 +20,17 @@ data.raw["recipe"]["light-armor"].enabled = false
 
 -- Open after tech military && electronics
 data.raw["recipe"]["radar"].enabled = false
+
+data.raw["recipe"]["repair-pack"].ingredients = {
+    { "iron-gear-wheel", 2 },
+    { "iron-stick", 4 },
+    { "copper-plate", 2 }
+}
+
+data.raw["recipe"]["logistic-science-pack"].ingredients = {
+    { "transport-belt", 1 },
+    { "burner-inserter", 1 }
+}
+
+-- todo: electric mining drill must require steel plate
+-- todo: electric lab must require steel plate
