@@ -8,7 +8,7 @@ data:extend({
         icon = "__steam-age__/graphics/icons/steam-lab.png",
         icon_size = 64, icon_mipmaps = 4,
         flags = { "placeable-player", "player-creation" },
-        minable = { mining_time = 0.2, result = "lab" },
+        minable = { mining_time = 0.2, result = "steam-lab" },
         max_health = 150,
         corpse = "lab-remnants",
         dying_explosion = "lab-explosion",

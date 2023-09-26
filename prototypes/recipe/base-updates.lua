@@ -32,5 +32,10 @@ data.raw["recipe"]["logistic-science-pack"].ingredients = {
     { "burner-inserter", 1 }
 }
 
+data.raw["recipe"]["offshore-pump"].ingredients = {
+    { "iron-plate", 6 },
+    { "iron-gear-wheel", 4 }
+}
+
 -- todo: electric mining drill must require steel plate
 -- todo: electric lab must require steel plate
